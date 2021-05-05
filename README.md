@@ -8,6 +8,13 @@ Google Drive link to my video : https://drive.google.com/file/d/1q_3OE9w--HiEti4
 
 Finally after all the processing a new video "filename.avi" would be created with the required output with heart rate information of every second.
 
-## Sample Output Frame
+# Used Packages Respective Versions
+OpenCV : 3.4.1
+Scipy : 1.6.2
+Numpy : 1.19.2
+Ffmpeg : 0.2.0
+
+
+# Sample Output Frame
 
 ![image](https://user-images.githubusercontent.com/48373859/117165172-e1f3d680-ade2-11eb-87b6-f82e759c56bb.png)
