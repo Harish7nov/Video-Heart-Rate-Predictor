@@ -7,3 +7,5 @@ Python program to predict the heart rate from a video file using signal processi
 Google Drive link to my video : https://drive.google.com/file/d/1q_3OE9w--HiEti4aNYB3Ed5rElcoICzR/view?usp=sharing
 
 Finally after all the processing a new video "filename.avi" would be created with the required output with heart rate information of every second.
+
+![image](https://user-images.githubusercontent.com/48373859/117165172-e1f3d680-ade2-11eb-87b6-f82e759c56bb.png)
