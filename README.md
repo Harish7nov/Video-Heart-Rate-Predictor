@@ -10,8 +10,11 @@ Finally after all the processing a new video "filename.avi" would be created wit
 
 # Used Packages Respective Versions
 OpenCV : 3.4.1
+
 Scipy : 1.6.2
+
 Numpy : 1.19.2
+
 Ffmpeg : 0.2.0
 
 
